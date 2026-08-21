@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "noobu",
   "bot-account": {
-    "username": "SenpaiSoull",
+    "username": "Soull",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "NexxSmpx.aternos.me",
     "port": 46665,
-    "version": "1.21.1"
+    "version": "1.26.44.3"
   },
   "position": {
     "enabled": true,
